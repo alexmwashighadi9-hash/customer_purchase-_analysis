@@ -25,3 +25,11 @@ Synthetic dataset containing 50,000 customer records.
 
 ## Author
 Alex Mwashighadi Wawuda
+
+## Project Structure
+
+customer-insights-analysis/
+│
+├── customer_insights_analysis.ipynb
+├── README.md
+├── requirements.txt
