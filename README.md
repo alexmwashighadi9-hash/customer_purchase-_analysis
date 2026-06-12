@@ -33,3 +33,9 @@ customer-insights-analysis/
 ├── customer_insights_analysis.ipynb
 ├── README.md
 ├── requirements.txt
+
+## Key Findings
+
+- Customer distribution varies significantly across cities.
+- Higher income groups generally exhibit higher purchase amounts.
+- Male and female income distributions show noticeable differences.
